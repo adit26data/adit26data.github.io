@@ -713,6 +713,10 @@ a:hover {
     .formcontainer {
         width: 50%;
     }
+     .formcontainer input {
+        padding: 0px;
+        margin: 2px auto;
+    }
 }
 @media screen and (max-width: 330px) {
 
