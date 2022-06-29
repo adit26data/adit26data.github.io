@@ -556,6 +556,10 @@ a:hover {
     .responsive ul li a {
         text-decoration: none;
     }
+     .formcontainer input {
+        padding: 0px;
+        margin: 2px auto;
+    }
 
 }
 
